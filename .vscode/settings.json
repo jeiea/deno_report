@@ -1,0 +1,8 @@
+{
+  "deno.enable": true,
+  "deno.unstable": true,
+  "typescript.validate.enable": false,
+  "javascript.validate.enable": false,
+  "deno.config": "./deno.tsconfig.json",
+  "editor.defaultFormatter": "denoland.vscode-deno"
+}
