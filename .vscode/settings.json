@@ -1,5 +1,5 @@
 {
-  "deno.enablePaths": ["tool"],
+  "deno.enablePaths": ["tool", "deno.json"],
   "deno.lint": true,
   "editor.defaultFormatter": "denoland.vscode-deno",
   "editor.formatOnSave": true,
