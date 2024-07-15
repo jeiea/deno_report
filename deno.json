@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "jotai-tanstack-query": "https://esm.sh/jotai-tanstack-query?external=jotai",
+    "jotai": "https://esm.sh/jotai@2.8.2",
+    "jotai/": "https://esm.sh/jotai@2.8.2/"
+  }
+}
