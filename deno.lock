@@ -1,0 +1,18 @@
+{
+  "version": "4",
+  "specifiers": {
+    "jsr:@std/io@~0.224.7": "0.224.8",
+    "jsr:@std/log@*": "0.224.7"
+  },
+  "jsr": {
+    "@std/io@0.224.8": {
+      "integrity": "f525d05d51fd873de6352b9afcf35cab9ab5dc448bf3c20e0c8b521ded9be392"
+    },
+    "@std/log@0.224.7": {
+      "integrity": "021941e5cd16de60cb11599c9b36f892aea95987fe66c753922808da27909e18",
+      "dependencies": [
+        "jsr:@std/io"
+      ]
+    }
+  }
+}
